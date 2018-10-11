@@ -1,12 +1,3 @@
-# MacOS 的安全和隐私指南
-
-> * 原文地址：[macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-> * 原文作者：[drduh](https://github.com/drduh)
-> * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
-> * 译者：[Nicolas(Yifei) Li](https://github.com/yifili09), [MAYDAY1993](https://github.com/MAYDAY1993), [DeadLion](https://github.com/DeadLion)
-> * 校对者：[lovelyCiTY](https://github.com/lovelyCiTY), [sqrthree](https://github.com/sqrthree)
-> * 这个 [链接](https://github.com/xitu/macOS-Security-and-Privacy-Guide/compare/master...drduh:master) 用来查看本翻译与英文版是否有差别（如果你没有看到 README.md 发生变化，那就意味着这份翻译文档是最新的）。
-
 这里汇集了一些想法，它们是有关如何保护运行了 macOS 10.12 "Sierra" 操作系统（以前是 **OS X**）的现代化苹果 Mac 电脑，也包含了一些提高个人网络隐私的小贴士。
 
 这份指南的目标读者是那些希望采用企业级安全标准的"高级用户"，但是也适用于那些想在 Mac 上提高个人隐私和安全性的初级用户们。
@@ -14,8 +5,6 @@
 一个系统的安全与否完全取决于管理员的能力。没有一个单独的技术、软件，或者任何一个科技能保证计算机完全安全；现代的计算机和操作系统都是非常复杂的，并且需要大量的增量修改才能获得在安全性和隐私性上真正意义的提高。
 
 **免责声明**：若按照以下操作后对您的 Mac 电脑造成损伤，**望您自行负责**。
-
-如果你发现了本文中的错误或者有待改进的内容，请提交 `pull request` 或者 [创建一个 `issue`](https://github.com/drduh/OS-X-Security-and-Privacy-Guide/issues).
 
 - [基础知识](#基础知识)
 - [固件](#固件)
